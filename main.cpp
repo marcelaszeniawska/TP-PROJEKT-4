@@ -72,8 +72,8 @@ void RysujWinde(HDC hdc) {
     int kabinaX = 200;
     int kabinaY = (int)yPozycja;
 
-    // Jednolity zielony kolor windy
-    SolidBrush kabina(Color(0, 128, 0)); // klasyczny zielony
+    SolidBrush kabina(Color(0, 128, 0));
+    
 
     g.FillRectangle(&kabina, kabinaX, kabinaY, 80, 80);
 
