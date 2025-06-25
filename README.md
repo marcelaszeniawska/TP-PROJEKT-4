@@ -9,11 +9,11 @@ ABY URUCHOMIĆ PROGRAM NALEŻY MIEĆ USTAWIONY PODSYSTEM NA WINDOWS
 Projekt to prosty symulator działania windy napisany w C++ z użyciem WinAPI i biblioteki GDI+ do grafiki.  
 Aplikacja pozwala na:
 
-- Symulację ruchu windy między 6 piętrami,
-- Obsługę przycisków wyboru piętra,
-- Wyświetlanie aktualnej masy pasażerów oraz liczby osób w kabinie,
-- Definiowanie liczby osób wsiadających („IN”) i wysiadających („OUT”) na każdym piętrze,
-- Kontrolę maksymalnego udźwigu windy (600 kg),
+- Symulację ruchu windy między 6 piętrami
+- Obsługę przycisków wyboru piętra
+- Wyświetlanie aktualnej masy pasażerów oraz liczby osób w kabinie
+- Definiowanie liczby osób wsiadających („IN”) i wysiadających („OUT”) na każdym piętrze
+- Kontrolę maksymalnego udźwigu windy (600 kg)
 - Automatyczny powrót windy na parter, jeśli jest pusta.
 
 ➜ Funkcjonalności
@@ -26,9 +26,9 @@ Aplikacja pozwala na:
 
 ➜ Struktura programu
 
-- WinAPI— obsługa okna, przycisków, timerów, komunikacji z systemem,
-- GDI+ — rysowanie windy, linii pięter oraz wyświetlanie tekstu,
-- Logika symulacji — zarządzanie ruchem windy, zmianą liczby pasażerów, kontrola udźwigu,
+- WinAPI— obsługa okna, przycisków, timerów, komunikacji z systemem
+- GDI+ — rysowanie windy, linii pięter oraz wyświetlanie tekstu
+- Logika symulacji — zarządzanie ruchem windy, zmianą liczby pasażerów, kontrola udźwigu
 - Interfejs użytkownika — przyciski wyboru pięter, pola „IN” i „OUT” jako rozwijane listy umożliwiające wybór liczby osób wsiadających i wysiadających.
 
 ➜ Jak uruchomić
