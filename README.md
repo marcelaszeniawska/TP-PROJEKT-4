@@ -1,5 +1,7 @@
 # TP-PROJEKT-4
+WYKONAŁY: Marcela Szeniawska 203272, Aleksandra Sala 203559;
 ABY URUCHOMIĆ PROGRAM NALEŻY MIEĆ USTAWIONY PODSYSTEM NA WINDOWS
+
 ➜ Symulator Windy — Projekt C++
 
  ➜ Opis projektu
